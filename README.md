@@ -1,11 +1,11 @@
 <div align="center">
  
 # Online API's Tools - Free Rest API
-[![CodeFactor](https://www.codefactor.io/repository/github/athallahdzaki/freerestapi2/badge)](https://www.codefactor.io/repository/github/athallahdzaki/freerestapi2)
+[![CodeFactor](https://www.codefactor.io/repository/github/XP-TN/freerestapi2/badge)](https://www.codefactor.io/repository/github/XP-TN/freerestapi2)
 <details>
  <summary>Sedekah :)</summary>
 
- [![Saweria](https://chrientmip.xyz/content/images/2020/04/saweriadotco.jpg)](https://saweria.co/freerestapi)
+ [![Saweria](https://chrientmip.xyz/content/images/2020/04/saweriadotco.jpg)](https://saweria.co/agung1)
  [![Trakteer](https://cdn.trakteer.id/images/mix/navbar-logo.png)](https://trakteer.id/freerestapi)
  
 </details>
@@ -41,4 +41,4 @@
  - Hilih Generate
  - Spam WhatsApp  (Not For Public)
 ```
-### Athallah Dzaki
+### XPTN
